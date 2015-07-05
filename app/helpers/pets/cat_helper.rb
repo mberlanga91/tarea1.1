@@ -1,0 +1,2 @@
+module Pets::CatHelper
+end
